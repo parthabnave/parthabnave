@@ -1,13 +1,51 @@
-# 💫 About Me:
-Hi there! 👋 I'm Parth!<br>I'm a second-year BE IT student with a passion for technology and programming. Currently, I'm diving into the world of MERN stack (MongoDB, Express.js, React, and Node.js) to expand my web development skills.<br><br>As I continue to grow in my technical journey, I'm excited to learn more, contribute to open-source projects, and build impactful applications.<br><br>Feel free to explore my repositories, and let's connect! 
+# Hi there, I'm Parth 👋
 
+🎓 &nbsp;Currently a third-year IT engineering student at PICT, Pune.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_abnave) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-abnave-in) 
+💻 &nbsp;**MERN Stack Web Developer** &mdash; building modern, scalable, and performant web applications.
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+🤖 &nbsp;**Aspiring Machine Learning Enthusiast** &mdash; exploring the world of AI with Python, aiming to merge data-driven insights with real-world impact.
 
-## ✨ Some Inspiration:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 🚀 Skills & Interests
+
+- **Languages:** JavaScript (ES6+), Python  
+- **Frameworks & Libraries:** React, Node.js, Express, MongoDB, TensorFlow, scikit-learn  
+- **Web:** RESTful APIs, Responsive Design, Full-stack App Development  
+- **Other:** Git & GitHub, Agile practices, Problem Solving
+
+---
+
+## 🌟 Featured Projects
+
+- [**GraphMind**](https://github.com/parthabnave/GraphMind):  
+  _A smart platform for interactive graph-based learning and visualization._
+
+- [**Absentia**](https://github.com/parthabnave/Absentia):  
+  _A streamlined attendance management tool harnessing the MERN stack._
+
+- [**OceanSight**](https://github.com/VyankateshKulkarni06/OceanSight):  
+  _Collaborative project focused on marine data analytics and visualization._
+
+- [**Graph-Mind**](https://github.com/VyankateshKulkarni06/Graph-Mind):  
+  _An innovative take on graph algorithms and educational tools._
+
+- [**dbms_group01**](https://github.com/AaryaAgrawal6105/dbms_group01):  
+  _Database management project highlighting team-driven backend engineering._
+
+---
+
+## 📈 GitHub Stats
+
+![parthabnave's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthabnave&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+<!-- Add your social links here, e.g. LinkedIn, Twitter, personal website -->
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.”_
