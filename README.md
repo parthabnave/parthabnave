@@ -1,45 +1,59 @@
-# Hi there, I'm Parth 👋
-
-🎓 &nbsp;Currently a third-year IT engineering student at PICT, Pune.
-
-💻 &nbsp;**MERN Stack Web Developer** &mdash; building modern, scalable, and performant web applications.
-
-🤖 &nbsp;**Aspiring Machine Learning Enthusiast** &mdash; exploring the world of AI with Python, aiming to merge data-driven insights with real-world impact.
+# Parth Abnave &nbsp; <a href="https://partha-dev.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="28"/></a> <a href="https://linkedin.com/in/parth-abnave-in"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="28"/></a>  <a href="mailto:parthcabnave@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="28"/></a>
 
 ---
 
-## 🚀 Skills & Interests
+### Full Stack Engineer • AI / GenAI Enthusiast
 
-- **Languages:** JavaScript, Python  
-- **Frameworks & Libraries:** React, Node.js, Express, MongoDB, TensorFlow, scikit-learn  
-- **Web:** RESTful APIs, Responsive Design, Full-stack App Development  
-- **Other:** Git & GitHub, Agile practices, Problem Solving
-
----
-
-## 🌟 Featured Projects
-
-- [**GraphMind**](https://github.com/parthabnave/GraphMind):  
-  _A smart platform for generating software documentation diagrams._
-
-- [**OceanSight**](https://github.com/VyankateshKulkarni06/OceanSight):  
-  _Collaborative project focused on marine data analytics and visualization._
-
-- [**dbms_group01**](https://github.com/AaryaAgrawal6105/dbms_group01):  
-  _Database management project highlighting team-driven backend engineering._
+> **3rd Year IT Undergraduate @ PICT, Pune**  
+> I design and build **scalable full-stack systems** and integrate **AI-driven intelligence** into real-world applications.  
+> Strong focus on **MERN architecture**, **system design**, and **Generative AI workflows**.
 
 ---
 
-## 📈 GitHub Stats
-
-![parthabnave's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthabnave&show_icons=true&theme=radical)
-
----
-
-## 📫 Let's Connect!
-
-<!-- Add your social links here, e.g. LinkedIn, Twitter, personal website -->
+## 🧠 What I Work On
+- Designing **end-to-end web systems** with clean backend architecture  
+- Applying **LLMs & GenAI** for automation, content structuring, and decision support  
+- Building **developer-centric tools** for documentation, visualization, and analytics  
+- Exploring **AI-assisted system modeling** and intelligent UI rendering
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.”_
+<h2 >🛠 Technical Stack</h2>
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,py,tensorflow,cpp,linux,git,vercel,postman&perline=6"
+    width="70%" 
+  />
+</p>
+
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Zenio  
+**AI-powered Learning Management System** that converts YouTube playlists into structured, curriculum-style courses.  
+**Tech:** React, Node.js, Gemini, Supabase 
+🔗 https://zen-io.vercel.app
+
+---
+
+### 🔹 OceanSight  
+**Collaborative analytics engine** for real-time marine and oceanographic data visualization.  
+Built with emphasis on data pipelines and interactive insights.  
+**Tech:** Python, Data Science  
+🔗 https://oceansight.netlify.app
+
+---
+
+## 📈 Currently Exploring
+- Advanced **Generative AI pipelines** (prompt → structure → render)
+- **AI-assisted UML & system design tools**
+- Backend scalability patterns and database optimization
+- LLM-powered developer tooling
+
+---
+
+<p align="center">
+  <i>“Intelligence is most powerful when it feels invisible.”</i>
+</p>
